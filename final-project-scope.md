@@ -1,7 +1,7 @@
 Project Scope Statement – Project 03 Final Project
-Project Manager: Briseyda
-Date: (Add date)  
-Project Title: Dodo’s Coffee Bar – Fictional Business Website
+Project Manager: Brie Lopez
+Date: April 21 2026  
+Project Title: Dodo’s Coffee Bar 
 
 1. Project Purpose
 The purpose of this project is to design and develop a multi‑page website for Dodo’s Coffee Bar, a fictional neighborhood café known for its cozy atmosphere, handcrafted drinks, and community‑centered vibe. This project demonstrates my ability to apply PMUPM Chapter 3 principles by defining a clear scope, establishing boundaries, and planning a structured web project from concept to completion. The final website will serve as a portfolio‑ready artifact showcasing both technical and project‑management skills.
@@ -102,5 +102,5 @@ By approving this document, I commit to following this scope as the guiding plan
 
 | Role | Name | Signature | Date |
 | --- | --- | --- | --- |
-| **Project Manager** | Briseyda | ________________________ | __________ |
+| **Project Manager** | Brie Lopez | ________________________ | __________ |
 | **Instructor / Stakeholder** | *(Instructor Name)* | ________________________ | __________ |
