@@ -51,3 +51,11 @@ Embedding a Google Map is free. The only cost is additional student time, which 
 Approval
 By signing below, the stakeholder acknowledges review of this change request and approves (or rejects) the proposed modification to the project scope.
 
+## Approval  
+By signing below, the stakeholder acknowledges review of this change request and approves (or rejects) the proposed modification to the project scope.
+
+| Role | Name | Signature | Date |
+|------|-------|-----------|-------|
+| **Requester** | Instructor | ________________________ | __________ |
+| **Project Manager** | Briseyda | ________________________ | __________ |
+| **Sponsor / Approver** | _(Instructor or designated approver)_ | ________________________ | __________ |
