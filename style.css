@@ -1,0 +1,35 @@
+:root {
+    --espresso: #4B2E19;
+    --cream: #F5E9D3;
+    --caramel: #C08A53;
+    --matcha: #6F8F5F;
+    --rosewood: #A45A6A;
+}
+
+body {
+    background-color: var(--cream);
+    color: var(--espresso);
+    font-family: 'Georgia', serif;
+}
+
+header, nav {
+    background-color: var(--espresso);
+    color: var(--cream);
+}
+
+button {
+    background-color: var(--caramel);
+    color: var(--cream);
+}
+
+button:hover {
+    background-color: var(--rosewood);
+}
+
+h1, h2 {
+    color: var(--espresso);
+}
+
+h3 {
+    color: var(--matcha);
+}
