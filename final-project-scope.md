@@ -98,20 +98,15 @@ The final product aligns with this scope statement and the Project 03 rubric
 9. Loops
 This project will follow short, iterative development cycles to maintain alignment with the scope and prevent scope creep.
 
-Loop 1 – Structure & Layout:  
-Build the basic HTML structure and navigation for all pages.
+Loop 1 – Structure & Layout: Build the basic HTML structure and navigation for all pages.
 
-Loop 2 – Branding & Styling:  
-Apply the color palette, typography, spacing, and overall visual identity.
+Loop 2 – Branding & Styling: Apply the color palette, typography, spacing, and overall visual identity.
 
-Loop 3 – Content Development:  
-Add written content, menu descriptions, café story, and placeholder images.
+Loop 3 – Content Development: Add written content, menu descriptions, café story, and placeholder images.
 
-Loop 4 – Visual Enhancements:  
-Add final images, refine spacing, adjust layout, and ensure brand cohesion.
+Loop 4 – Visual Enhancements: Add final images, refine spacing, adjust layout, and ensure brand cohesion.
 
-Loop 5 – Final Review & Deployment:  
-Test navigation, validate HTML/CSS, complete final adjustments, and publish to GitHub Pages.
+Loop 5 – Final Review & Deployment: Test navigation, validate HTML/CSS, complete final adjustments, and publish to GitHub Pages.
 
 Each loop ends with a brief evaluation to confirm alignment with the approved scope.
 
@@ -129,4 +124,4 @@ Skill Development: Existing HTML/CSS knowledge and ongoing learning through cour
 Approval
 Role	Name	Signature	Date
 Project Manager	Brie Lopez	________________________	__________
-Instructor / Stakeholder	(Instructor Name)	________________________	__________
+Instructor / Stakeholder	(Instructor Name)	________________________	_____
